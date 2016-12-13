@@ -29,7 +29,7 @@ library(xtable)
 ```
 
 <!-- html table generated in R 3.3.1 by xtable 1.8-2 package -->
-<!-- Tue Dec 13 11:12:24 2016 -->
+<!-- Tue Dec 13 11:24:15 2016 -->
 <table border=1>
 <tr> <th>  </th> <th> steps </th> <th> date </th> <th> interval </th>  </tr>
   <tr> <td align="right"> 1 </td> <td align="right">  </td> <td> 2012-10-01 </td> <td align="right">   0 </td> </tr>
@@ -109,7 +109,7 @@ df3 <-xtable(df2)
 ```
 
 <!-- html table generated in R 3.3.1 by xtable 1.8-2 package -->
-<!-- Tue Dec 13 11:12:25 2016 -->
+<!-- Tue Dec 13 11:24:16 2016 -->
 <table border=1>
 <tr> <th>  </th> <th> Interval </th> <th> Mean.Steps </th>  </tr>
   <tr> <td align="right"> 226 </td> <td align="right"> 121.00 </td> <td align="right"> 254.00 </td> </tr>
